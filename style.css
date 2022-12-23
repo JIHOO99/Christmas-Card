@@ -1,0 +1,24 @@
+body {
+  background-image: url(./images/tica034d16110075.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+.Merry {
+  font-size: 65px;
+  margin: 90px;
+  text-align: center;
+  color: white;
+  text-shadow: 100px 20px rgb(218, 102, 102);
+}
+.Tree {
+  display: block;
+  width: 600px; 
+  margin: 0 auto;
+}
+.안내 {
+  color: rgb(218, 102, 102);
+  font-size: 44px;
+  text-align: center;
+  text-shadow: 10px 0 white;
+}

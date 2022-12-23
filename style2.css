@@ -1,0 +1,28 @@
+body {
+  margin-top: auto;
+  height: 100%;
+  background-image: url(./images/7777.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  background-color: white;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+.장식 {
+  margin: 0;
+  width: 1000px;
+  height: 200px;
+}
+.선물 {
+  margin: auto;
+  width: 450px;
+}
+.ev {
+  margin-right: 100px;
+  margin-top: 79px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  text-shadow: 100px 20px rgb(218, 102, 102);
+}
